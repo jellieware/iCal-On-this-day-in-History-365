@@ -8,4 +8,4 @@ On this day in history 365 (iCal)
 -iCal (ics) format<br>
 -Bash Script included<br><br><br>
 
-<img width="720" height="1604" alt="1000067904" src="https://github.com/user-attachments/assets/59f41b34-5e57-4935-b660-c95bfb63c94f" />
+<img width="720" height="1604" alt="1000067905" src="https://github.com/user-attachments/assets/a31a5811-8786-4f37-b817-d4070d48bb19" />
